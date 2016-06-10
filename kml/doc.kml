@@ -32,6 +32,24 @@
 	</Style>
 	<Folder>
 		<name>doc</name>
+		<open>1</open>
+		<Placemark>
+			<name>実家</name>
+			<Camera>
+				<longitude>130.4536577908633</longitude>
+				<latitude>33.67199316598673</latitude>
+				<altitude>209.0063595180065</altitude>
+				<heading>-4.818899049905249</heading>
+				<tilt>21.44431120466375</tilt>
+				<roll>1.156851457788454</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.4537283912184,33.67346977321341,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark>
 			<name>学校</name>
 			<Camera>
